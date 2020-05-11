@@ -1,0 +1,42 @@
+{
+  "id": "798623a4-6e3a-42e0-93f7-7c10488664a2",
+  "name": "ExtensionTransport",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+"target": "Internal",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "features": ["TranslationFile"],
+   "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 84000,
+      "to": 84999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://WI004.com/help/",
+  "showMyCode": true,
+  "runtime": "5.0"
+  
+
+}

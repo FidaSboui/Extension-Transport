@@ -1,0 +1,5 @@
+{
+    "al.defaultLaunchConfigurationName": "Your own server",
+    "al.enableCodeAnalysis" :true,
+    "al.codeAnalyzers": ["${AppSourceCop}","${PerTenantExtensionCop}","${CodeCop}","${UICop}"]
+}

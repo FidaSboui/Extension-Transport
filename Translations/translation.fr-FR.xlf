@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="WI004">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3750562603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Slip Header</source>
+          <target>En-tête bordereau de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>N°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 3258031123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure time</source>
+          <target>Heure départ planifiée</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Departure Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 971749063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End of order Time</source>
+          <target> Heure fin de commande</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field End of order Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 3897629776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Date comptabilisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Posting date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <target>Souches de n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Statut</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open,Released,Printed</source>
+          <target>Ouvert,Lancé,Imprimé</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 2186326632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date-Time</source>
+          <target>Date/heure création</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Created Date-Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 3419035633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By UserID</source>
+          <target>Créé par ID utilisateur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Created By UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>N° client</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <target>Nom client</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 2743501653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Name</source>
+          <target>Nom du destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 3261344115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Name 2</source>
+          <target>Nom du destinataire 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 1187003046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Adresse destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 1417792948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address 2</source>
+          <target>Adresse destinataire 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 1981213637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to City</source>
+          <target>Ville destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 993414011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Code</source>
+          <target>Code destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 4239513174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gross Weight</source>
+          <target>Poids brut</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Gross Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 3088522385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Weight</source>
+          <target>Poids net</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Net Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 3172878019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Post Code</source>
+          <target>Code postal destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 187607738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to County</source>
+          <target>Région destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 3354576322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Country/Region Code</source>
+          <target>Code pays/région destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Ship-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 4045368290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Agent Code</source>
+          <target>Code transporteur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Shipping Agent Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 1115434830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Tracking No.</source>
+          <target>N° récépissé</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Package Tracking No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 370299988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pallets Number</source>
+          <target>Nombre de palettes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Pallets Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 236437990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Packages Number</source>
+          <target>Nombre de colis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Packages Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commentaire</source>
+          <target>Commentaire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3750562603 - Field 2708192751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Numbre</source>
+          <target>Nombre de ligne</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Header - Field Line Numbre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Slip Line</source>
+          <target>Ligne bordereau de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 3991382475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Slip No.</source>
+          <target>N° bordereau de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Shipment Slip No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>N° ligne</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 2202932243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° commande</source>
+          <target>N° commande</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 64970433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>N° expédition</source>
+          <target>N° expédition</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Shipment No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>N° client</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <target>Nom client</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 2743501653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Name</source>
+          <target>Nom du destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 3261344115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Name 2</source>
+          <target>Nom du destinataire 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 1187003046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Adresse destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 1417792948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address 2</source>
+          <target>Adresse destinataire 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 1981213637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to City</source>
+          <target>Ville destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 993414011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Code</source>
+          <target>Code destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 4239513174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gross Weight</source>
+          <target>Poids brut</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Gross Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 3088522385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Weight</source>
+          <target>Poids net</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Net Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Montant</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 1650118938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Including VAT</source>
+          <target>Montant TTC</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Amount Including VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 3172878019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Post Code</source>
+          <target>Code postal destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 187607738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to County</source>
+          <target>Région destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 3354576322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Country/Region Code</source>
+          <target>Code pays/région destinataire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Ship-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 370299988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pallets Number</source>
+          <target>Nombre de palettes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Pallets Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 236437990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Packages Number</source>
+          <target>Nombre de colis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Packages Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1874339332 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commentaire</source>
+          <target>Commentaire</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Shipment Slip Line - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3134026183 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Il n'y pas de BL pour ce client non attribuée</source>
+          <target>Il n'y pas de BL pour ce client non attribuée</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Shipment Slip Management - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 2969344956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Shipment To Assign</source>
+          <target>Expédition vente à affecter</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Get Sales Shipment Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Slip Card</source>
+          <target>Fiche bordereau de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Manage,,,,</source>
+          <target>Nouveau,Processus,Etat,Gérer,,,,</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - Action 3911075484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manage</source>
+          <target>Gérer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - Action Action1000000034 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - Action 3408699034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get &amp;Sales Shipment</source>
+          <target>Extraire expédition vente</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - Action GetSalesShipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - Action 281697489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bordereaux de livraison</source>
+          <target> state=Bordereaux de livraison</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - Action Bordereaux de livraison - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - Action 722592399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release/Reopen</source>
+          <target>Lancer/R&amp;ouvrir</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - Action Action1000000031 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;lease</source>
+          <target>&amp;Lancer</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - Action 2071937805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;open</source>
+          <target>R&amp;ouvrir</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - Action Reopen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2595531206 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please choose a customer</source>
+          <target>Veuillez choisir un client</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Card - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 2277377312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Slip List</source>
+          <target>Liste bordereau de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 400970120 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line</source>
+          <target>Ligne</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Shipment Slip Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Amount</source>
+          <target>Montant</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 1650118938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Amount Including VAT</source>
+          <target>Montant TTC</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Amount Including VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 3347721688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Assigned To Shpt. Slip</source>
+          <target>Affecté à un bord. livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Assigned To Shpt. Slip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 3991382475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Shipment Slip No.</source>
+          <target>N° bordereau de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Shipment Slip No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 370299988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Pallets Number</source>
+          <target>Nombre de palettes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Pallets Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 236437990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Packages Number</source>
+          <target>Nombre de colis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Packages Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 1158746271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Shpt. Slip Gross Weight</source>
+          <target>Poids brut bord. livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Shpt. Slip Gross Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 11836180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Shpt. Slip Net Weight</source>
+          <target>Poids net bord. livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Shpt. Slip Net Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1267955790 - Field 3088522385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3118382297">
+          <source>Net Weight</source>
+          <target>Poids net</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84001 - Field Net Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3649833235 - Field 1206454073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Line Discount Amount</source>
+          <target>Montant remise ligne</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84002 - Field Line Discount Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3649833235 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Amount</source>
+          <target>Montant</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84002 - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3649833235 - Field 1108276017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>VAT Amount</source>
+          <target>Montant TVA</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84002 - Field VAT Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3649833235 - Field 1650118938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Amount Including VAT</source>
+          <target>Montant TTC</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84002 - Field Amount Including VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3649833235 - Field 2114154488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1114148978">
+          <source>Amount Advance / Tax</source>
+          <target>Montant Avance sur impôt</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84002 - Field Advance / Tax Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4287529852 - Field 3082383656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Sales Def. Location</source>
+          <target>Magasin vente par défaut</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84003 - Field Sales Def. Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4287529852 - Field 1738272796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Tour Nos.</source>
+          <target>N° Tournée</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84003 - Field Tour Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 2827574496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Document Sender</source>
+          <target>Emetteur du document</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Document Sender - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 2804155772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Invoicing Status</source>
+          <target>Etat facturation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Invoicing Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 2804155772 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Not Invoiced,Partially Invoiced,Completely Invoiced</source>
+          <target>Non Facturée,Partiellement facturée,Totalement facturée</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Invoicing Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 3714176200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Shipment Status</source>
+          <target>Etat livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Shipment Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 3714176200 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Not Shipped,Partially Shipped,Completely Shipped</source>
+          <target>Non expédié,Partiellement expédié,Totalement expédié</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Shipment Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 3347721688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Assigned To Shpt. Slip</source>
+          <target>Affecté à un boord. livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Assigned To Shpt. Slip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 3991382475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Shipment Slip No.</source>
+          <target>N° bordereau de livraison</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Shipment Slip No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 370299988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Pallets Number</source>
+          <target>Nombre de palettes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Pallets Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2374440001 - Field 236437990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Packages Number</source>
+          <target>Nombre de colis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension84004 - Field Packages Number - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
