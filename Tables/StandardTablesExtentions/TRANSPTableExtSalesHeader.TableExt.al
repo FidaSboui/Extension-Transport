@@ -2,7 +2,7 @@ tableextension 84004 "TRANSP TableExt-Sales Header" extends "Sales Header"
 {
     fields
     {
-        field(80000; "Document Sender"; Code[30])
+        field(84004; "Document Sender"; Code[30])
         {
             Caption = 'Document Sender';
             DataClassification = CustomerContent;
@@ -12,7 +12,7 @@ tableextension 84004 "TRANSP TableExt-Sales Header" extends "Sales Header"
 
 
         }
-        field(80010; "Invoicing Status"; Option)
+        field(84005; "Invoicing Status"; Option)
         {
             Caption = 'Invoicing Status';
             DataClassification = CustomerContent;
@@ -21,7 +21,7 @@ tableextension 84004 "TRANSP TableExt-Sales Header" extends "Sales Header"
             OptionCaption = 'Not Invoiced,Partially Invoiced,Completely Invoiced';
             OptionMembers = "Not Invoiced","Partially Invoiced","Completely Invoiced";
         }
-        field(80011; "Shipment Status"; Option)
+        field(84006; "Shipment Status"; Option)
         {
             Caption = 'Shipment Status';
             DataClassification = CustomerContent;

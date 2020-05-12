@@ -2,7 +2,7 @@ tableextension 84001 "TRANSPTableExt-SalesShipHeader" extends "Sales Shipment He
 {
     fields
     {
-        field(50025; Amount; Decimal)
+        field(84007; Amount; Decimal)
         {
             AutoFormatExpression = "Currency Code";
             AutoFormatType = 1;
@@ -12,7 +12,7 @@ tableextension 84001 "TRANSPTableExt-SalesShipHeader" extends "Sales Shipment He
             Editable = false;
             FieldClass = FlowField;
         }
-        field(50035; "Amount Including VAT"; Decimal)
+        field(84008; "Amount Including VAT"; Decimal)
         {
             AutoFormatExpression = "Currency Code";
             AutoFormatType = 1;

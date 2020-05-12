@@ -2,7 +2,7 @@ tableextension 84021 "TRANSP TableExt-Payment Line" extends "Payment Line"
 {
     fields
     {
-        field(81000; "WithHold Tax Amount"; Decimal)
+        field(84002; "WithHold Tax Amount"; Decimal)
         {
             Caption = 'WithHold Tax Amount';
             Description = 'WI004';
@@ -34,7 +34,7 @@ tableextension 84021 "TRANSP TableExt-Payment Line" extends "Payment Line"
             OptionCaption = 'G/L Account,Customer,Vendor,Bank Account,Fixed Asset';
             OptionMembers = "G/L Account",Customer,Vendor,"Bank Account","Fixed Asset";
         }
-        field(86000; "Payment Title No."; Text[30])
+        field(84003; "Payment Title No."; Text[30])
         {
             Caption = 'Payment Title No.';
             DataClassification = CustomerContent;
@@ -44,13 +44,13 @@ tableextension 84021 "TRANSP TableExt-Payment Line" extends "Payment Line"
                                                              "Cancelled Check" = FILTER(false));
             ValidateTableRelation = false;
         }
-        field(86005; "Payment Title Bank Account"; Text[30])
+        field(84004; "Payment Title Bank Account"; Text[30])
         {
             Caption = 'Payment Title Bank Account';
             DataClassification = CustomerContent;
             Description = 'WI004';
         }
-        field(86010; "Payment Line Description"; Text[100])
+        field(84005; "Payment Line Description"; Text[100])
         {
             Caption = 'Payment Line Description';
             DataClassification = CustomerContent;

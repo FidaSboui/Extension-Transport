@@ -54,7 +54,7 @@ report 84000 "TRANSP Trade effect"
             column(CP; CP)
             {
             }
-            column(RecBankAccount_Picture; RecBankAccount.Picture)
+            column(RecBankAccount_Picture; RecBankAccount.Image)
             {
             }
             column(Nom_Control1000000003; Nom)
@@ -227,7 +227,6 @@ report 84000 "TRANSP Trade effect"
                 RIB := RecBankAccount."Bank Branch No." + RecBankAccount."Agency Code" +
                 RecBankAccount."Bank Account No." + Rkey;
                 NumBorderau := "Payment Line"."No.";
-                RecBankAccount.CALCFIELDS(RecBankAccount.Picture);
                 Contact := RecBankAccount.Contact;
                 Adresse := RecBankAccount.Address + '  ' + RecBankAccount.City + ' ' + RecBankAccount."Post Code";
                 RecPaymentLine.SETFILTER(RecPaymentLine."No.", NumBorderau);
@@ -256,10 +255,8 @@ report 84000 "TRANSP Trade effect"
             trigger OnPreDataItem()
             begin
                 RecCompany.GET();
-                CurrReport.NEWPAGEPERRECORD := PrintOnlyOnePerPage;
-                //CurrReport.CREATETOTALS("Payment Line"."Credit Amount");
-                IF ISSERVICETIER THEN
-                    RecordCounter := 0;
+
+                RecordCounter := 0;
 
 
                 Nbr := 0;
@@ -312,23 +309,19 @@ report 84000 "TRANSP Trade effect"
         Vendor: Record Vendor;
         Check_G: Report Check;
         LastFieldNo: Integer;
-
-
-        PrintOnlyOnePerPage: Boolean;
-
         AmountPrinted: Decimal;
 
         RecordCounter: Integer;
 
 
         Nom: Text[30];
-        RIB: Code[50];
+        RIB: Text;
 
         NumBorderau: Code[20];
         Nbr: Integer;
 
-        Adresse: Text[100];
-        Siege: Text[100];
+        Adresse: Text;
+        Siege: Text;
         CP: Text[50];
         Rkey: Text[2];
         MontantLettre: Text[1024];
@@ -355,13 +348,13 @@ report 84000 "TRANSP Trade effect"
         PostDate: Date;
         TotalAmountLCY: Decimal;
 
-        RIB2: Code[50];
+        RIB2: Text;
         Namebank: Text;
         Rkey2: Text[2];
         SWIFT: Text;
 
 
-        VendAddress: Text[50];
+        VendAddress: Text;
         Montant: Text[100];
 
 

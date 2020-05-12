@@ -40,15 +40,14 @@ table 84002 "TRANSP Bank Checks"
             Caption = 'Cancelled Check';
             DataClassification = CustomerContent;
         }
-        field(7; "Account Type"; Option)
+        field(7; "Account Type"; Enum "TRANSP Enum Object Type")
         {
             CalcFormula = Lookup ("Payment Line"."Account Type" WHERE("No." = FIELD("Payment Slip No."),
                                                                       "Line No." = FIELD("Payment Slip Line No.")));
             Caption = 'Account Type';
             Editable = false;
             FieldClass = FlowField;
-            OptionCaption = 'G/L Account,Customer,Vendor,Bank Account,Fixed Asset,IC Partner,Employee';
-            OptionMembers = "G/L Account",Customer,Vendor,"Bank Account","Fixed Asset","IC Partner",Employee;
+
         }
         field(8; "Account No."; Code[20])
         {

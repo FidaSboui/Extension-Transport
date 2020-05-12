@@ -120,7 +120,6 @@ page 84000 "TRANSP Shipment Slip List"
             }
         }
     }
-}
 
     actions
     {

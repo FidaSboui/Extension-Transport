@@ -1,8 +1,8 @@
-tableextension 84041 tableextension84041 extends "Payment Class"
+tableextension 84041 "TRANSP TableExt Payment Class" extends "Payment Class"
 {
     fields
     {
-        field(60000; "WithHolding Tax Payment"; Boolean)
+        field(84000; "WithHolding Tax Payment"; Boolean)
         {
             Caption = 'WithHoldingTax Payment';
             DataClassification = CustomerContent;

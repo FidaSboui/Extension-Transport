@@ -2,7 +2,7 @@ tableextension 84003 "TRANSPTableExt-Sales&RecStUp" extends "Sales & Receivables
 {
     fields
     {
-        field(50050; "Sales Def. Location"; Code[20])
+        field(84001; "Sales Def. Location"; Code[20])
         {
             Caption = 'Sales Def. Location';
             DataClassification = CustomerContent;
