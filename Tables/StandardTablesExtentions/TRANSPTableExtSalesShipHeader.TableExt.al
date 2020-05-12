@@ -64,9 +64,9 @@ tableextension 84001 "TRANSPTableExt-SalesShipHeader" extends "Sales Shipment He
                 SalesShipmentHeaderToAssign_L: Record "Sales Shipment Header";
                 ShipmentSlipLine_L: Record "TRANSP Shipment Slip Line";
             begin
-                ShipmentSlipLine_L.Reset;
+                ShipmentSlipLine_L.Reset();
                 ShipmentSlipLine_L.SetRange("Shipment Slip No.", "No.");
-                if ShipmentSlipLine_L.FindSet then begin
+                if ShipmentSlipLine_L.FindSet() then
                     repeat
                         if SalesShipmentHeaderToAssign_L.Get(ShipmentSlipLine_L."Shipment No.") then begin
                             SalesShipmentHeaderToAssign_L."Assigned To Shpt. Slip" := true;
@@ -75,10 +75,10 @@ tableextension 84001 "TRANSPTableExt-SalesShipHeader" extends "Sales Shipment He
                             SalesShipmentHeaderToAssign_L."Shipping Agent Code" := "Shipping Agent Code";
                             SalesShipmentHeaderToAssign_L."Pallets Number" := "Pallets Number";
                             SalesShipmentHeaderToAssign_L."Packages Number" := "Packages Number";
-                            SalesShipmentHeaderToAssign_L.Modify;
+                            SalesShipmentHeaderToAssign_L.Modify();
                         end
-                    until ShipmentSlipLine_L.Next = 0;
-                end
+                    until ShipmentSlipLine_L.Next() = 0;
+
             end;
         }
         field(84005; "Shpt. Slip Net Weight"; Decimal)

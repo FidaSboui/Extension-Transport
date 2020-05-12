@@ -246,7 +246,7 @@ report 84000 "TRANSP Trade effect"
 
 
 
-                Check_G.InitTextVariable;
+                Check_G.InitTextVariable();
 
                 Check_G.FormatNoText(NoText_G, AmountPrinted, '');
 
@@ -255,7 +255,7 @@ report 84000 "TRANSP Trade effect"
 
             trigger OnPreDataItem()
             begin
-                RecCompany.GET;
+                RecCompany.GET();
                 CurrReport.NEWPAGEPERRECORD := PrintOnlyOnePerPage;
                 //CurrReport.CREATETOTALS("Payment Line"."Credit Amount");
                 IF ISSERVICETIER THEN
